@@ -64,3 +64,9 @@ require("rnum").setup({
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
+
+---
+
+## Contributing
+
+Contributions are welcome! If you have ideas, bug reports, or improvements, feel free to open an issue or submit a pull request. Let's make `rnum.nvim` even better together!
