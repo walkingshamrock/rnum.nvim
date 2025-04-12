@@ -4,6 +4,10 @@ Smart, right-aligned line numbers for Neovim — relative in normal mode, absolu
 
 `rnum.nvim` enhances your line number column using Neovim's `statuscolumn` feature. It dynamically switches between relative and absolute numbers depending on the current mode, with clean right alignment and consistent visual layout.
 
+Thank you for considering supporting this project! Your generosity helps keep development active and ensures the plugin continues to improve.
+
+[![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20me%20a%20coffee-yellow?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://www.buymeacoffee.com/walkingshamrock)
+
 ---
 
 ## Features
