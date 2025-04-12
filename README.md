@@ -20,6 +20,12 @@ Thank you for considering supporting this project! Your generosity helps keep de
 
 ---
 
+## Why I Built This Plugin
+
+I created `rnum.nvim` because I wanted a better way to align the current line number when `relativenumber` is enabled in Neovim. By default, the current line's number aligns to the left, while the relative numbers for other lines align to the right. This inconsistency bothered me, so I built this plugin to ensure clean, right-aligned formatting for all line numbers, regardless of the current mode.
+
+---
+
 ## Installation
 
 ### Using lazy.nvim
