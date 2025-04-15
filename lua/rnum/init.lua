@@ -85,7 +85,7 @@ function M.render()
   end
 
   local highlight = is_current and "%#CurrentLineNrCustom#" or "%#LineNr#"
-  local padded = string.format("%" .. number_width .. "s", num_text)
+  local padded = string.format("%" .. number_width .. "s ", num_text)
   return highlight .. padded .. "%* "
 end
 
